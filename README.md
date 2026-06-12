@@ -1,5 +1,5 @@
 # Hi, I'm Sree Chandana 👋
-💻 Aspiring Full-Stack Web Developer | Final-Year BCA Student | Building real-world projects and continuously learning new technologies.
+💻 Aspiring Full-Stack Web Developer | Building real-world projects and continuously learning new technologies.
 
 🎓 Final-Year BCA Student at REVA University
 
