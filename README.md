@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sree Chandana 👋
 
-<!--
-**Bavirisettysreechandana220504/Bavirisettysreechandana220504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year BCA Student at REVA University
 
-Here are some ideas to get you started:
+💻 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+* Python
+* Flask
+* SQLite
+* GitHub
+
+🚀 Projects:
+
+* Derm Assist AI
+* Personal Portfolio Website
+
+📫 Contact:
+
+* Email: [bsreechandana220504@gmail.com](mailto:bsreechandana220504@gmail.com)
+* LinkedIn: www.linkedin.com/in/bavirisetty-sree-chandana-a6093527a
+* Portfolio: https://YOUR-PORTFOLIO-LINK
