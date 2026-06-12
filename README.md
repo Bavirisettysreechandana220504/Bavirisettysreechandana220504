@@ -21,4 +21,4 @@
 
 * Email: [bsreechandana220504@gmail.com](mailto:bsreechandana220504@gmail.com)
 * LinkedIn: www.linkedin.com/in/bavirisetty-sree-chandana-a6093527a
-* Portfolio: https://YOUR-PORTFOLIO-LINK
+* Portfolio: https://bavirisettysreechandana220504.github.io/My-Portfolio/
